@@ -1,47 +1,66 @@
 # ¡Hola! Soy Pablo 👋
 
-💻 Desarrollador Web Junior · 🎓 Estudiante de Ingeniería Informática
+💻 **Desarrollador Web Junior** · 🎓 **Estudiante de Ingeniería Informática**
 
-Soy Técnico en Desarrollo Web y sigo formándome en Ingeniería Informática. Me apasiona construir aplicaciones web y de software que funcionen bien y que la gente pueda usar sin complicaciones, siempre buscando ese equilibrio entre funcionalidad y buena experiencia de usuario.
+Soy Técnico en Desarrollo Web y actualmente estudio Ingeniería Informática. Tengo experiencia desarrollando aplicaciones web de principio a fin, trabajando tanto en frontend como en backend.
 
-### 🛠️ Con qué trabajo
+Me interesa especialmente crear soluciones funcionales, fáciles de utilizar y adaptadas a las necesidades de cada proyecto.
+
+### 🛠️ Tecnologías
 
 **Frontend**
-- HTML
-- CSS
-- JavaScript
+
+* HTML
+* CSS
+* JavaScript
 
 **Backend**
-- PHP
-- Node.js
-- Express
+
+* PHP
+* Node.js
+* Express
 
 **Bases de datos**
-- MySQL / MariaDB
-- SQLite
 
-**Herramientas del día a día**
-- Git y GitHub
-- Linux
-- VS Code
+* MySQL / MariaDB
+* SQLite
+
+**Herramientas**
+
+* Git y GitHub
+* Linux
+* VS Code
 
 ### 🚀 Experiencia
 
-Trabajo como Desarrollador Web Junior, y uno de los proyectos de los que más orgulloso estoy es [Malvín Administración](https://malvinadministracion.com.uy/), donde me encargué tanto del frontend como del backend de principio a fin.
+**Desarrollador Web Junior — Malvín Administración**
 
-### 📌 Algunos proyectos
+Desarrollo integral de la plataforma web de [Malvín Administración](https://malvinadministracion.com.uy/), trabajando tanto en el frontend como en el backend.
 
-- **Malvín Administración** — Desarrollo Full Stack completo
-- **GmailReader** — Una app en Python para recibir y ver notificaciones de Gmail
-- **mewnite.github.io** — Mi sitio personal
-- Tengo varios experimentos y proyectos más en mis repos, por si querés curiosear 👀
+* Desarrollo de la interfaz y funcionalidades web.
+* Implementación de la lógica del backend.
+* Desarrollo de funcionalidades orientadas a las necesidades del proyecto.
+* Mantenimiento y resolución de problemas de la aplicación.
+
+**Tecnologías:** PHP · JavaScript · HTML · CSS
+
+### 📌 Proyectos destacados
+
+* **Malvín Administración** — Desarrollo web Full Stack de una plataforma para un cliente real.
+* **GmailReader** — Aplicación desarrollada en Python para recibir y visualizar notificaciones de Gmail.
+* **Private Chat** — Aplicación de mensajería desarrollada como proyecto personal.
+
+Podés encontrar más proyectos y experimentos en mis repositorios.
 
 ### 🎓 Formación
 
-- Ingeniería Informática (en curso)
-- Bachillerato Tecnológico Informático — Desarrollo Web
-- Auxiliar Técnico en Desarrollo Web
+* **Ingeniería Informática** — En curso
+* **Bachillerato Tecnológico Informático — Desarrollo Web**
+* **Auxiliar Técnico en Desarrollo Web**
 
----
+### 📫 Contacto
 
-📫 ¿Querés charlar o tenés una propuesta? Escribime por [LinkedIn](#) o mandame un [email](mailto:#).
+¿Tenés una propuesta, querés hablar sobre algún proyecto o simplemente pasar a saludar?
+
+* [LinkedIn](#)
+* [Email](mailto:#)
